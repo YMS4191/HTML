@@ -1,0 +1,28 @@
+﻿{
+  "kategoriler": [
+    {
+      "Id": 1,
+      "CategoryName": "Beverages",
+      "Description": "Soft, tea",
+      "Products": [
+        {
+          "Id": 1,
+          "ProductName": "Dadlı",
+          "Price": 1.4
+        },
+        {
+          "Id": 1,
+          "ProductName": "Dadlı",
+          "Price": 1.4
+        },
+        {
+          "Id": 1,
+          "ProductName": "Dadlı",
+          "Price": 1.4
+        }
+      ]
+    }
+  ]
+}
+
+ 
